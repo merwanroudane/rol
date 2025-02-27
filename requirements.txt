@@ -1,6 +1,7 @@
 arch
 streamlit
 matplotlib==3.9.4
+openpyxl
 pandas
 seaborn
 statsmodels
